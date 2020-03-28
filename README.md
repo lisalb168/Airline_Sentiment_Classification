@@ -25,5 +25,5 @@ Link to the data source:
 https://www.figure-eight.com/data-for-everyone/
 
 Link to the full report and ppt slides:  
-https://github.com/lisalb168/Bo_project/tree/master/capstone%20project%202/report
+https://github.com/lisalb168/Airline_Sentiment_Classification/tree/master/report
 

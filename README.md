@@ -11,7 +11,7 @@ website in the url given in the last section.
 The dataset contains over 14,000 reviews and sentiments are classified into 3 categories: Positive, Negative and Neutral. 
 A visual inspection shows that majority of the sentiments are negative.
 
-<img src="https://github.com/lisalb168/Bo_project/blob/master/capstone%20project%202/figures/Airline%20Company%20by%20Sentiment.png"
+<img src="https://github.com/lisalb168/Airline_Sentiment_Classification/blob/master/figures/Airline%20Company%20by%20Sentiment.png"
      alt="Airline Company by Sentiment"
      style="float: left; margin-right: 10px;" />
         
@@ -25,5 +25,5 @@ Link to the data source:
 https://www.figure-eight.com/data-for-everyone/
 
 Link to the full report and ppt slides:  
-https://github.com/lisalb168/Bo_project/tree/master/capstone%20project%202/report
+https://github.com/lisalb168/Airline_Sentiment_Classification/tree/master/report
 
